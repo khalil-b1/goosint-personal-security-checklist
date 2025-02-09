@@ -13,7 +13,7 @@ PS. I still need to work on a proper [contribution process](https://github.com/k
 ## [↑](#table-of-contents) Security Checklist
 
 **Inventory**
-- [ ] Take inventory of your online accounts and electronic devices (router, camera, smartphone, computer, smart TV, etc.) (Khalil).
+- Take inventory of your online accounts and electronic devices (router, camera, smartphone, computer, smart TV, etc.) (Khalil).
 
 **Services**
 - Only activate your Bluetooth when necessary (NSA).
